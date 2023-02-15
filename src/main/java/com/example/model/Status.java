@@ -1,5 +1,5 @@
 package com.example.model;
 
 public enum Status {
-    ACTIVE, BANNED;
+    ACTIVE, BANNED, BUYER, SELLER;
 }
